@@ -23,3 +23,6 @@ This project involved the following steps:
 - Yahoo Finance package
 - Jupyter Notebooks
 - Web scraping libraries
+
+
+NOTE FILE lse_stocks_comprehensive_data_full.csv removed from repo due to size. 1gb file contains or lse stocks info on yahoo finance
