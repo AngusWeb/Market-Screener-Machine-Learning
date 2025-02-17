@@ -1,0 +1,14 @@
+[
+    {
+        "columns": [
+            "current",
+            "7daysAgo",
+            "30daysAgo",
+            "60daysAgo",
+            "90daysAgo"
+        ],
+        "index": [],
+        "data": [],
+        "ticker": "BP"
+    }
+]

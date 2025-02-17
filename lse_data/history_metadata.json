@@ -1,0 +1,61 @@
+[
+    {
+        "currency": "GBp",
+        "symbol": "BP.L",
+        "exchangeName": "LSE",
+        "fullExchangeName": "LSE",
+        "instrumentType": "EQUITY",
+        "firstTradeDate": 583743600,
+        "regularMarketTime": 1725973376,
+        "hasPrePostMarketData": false,
+        "gmtoffset": 3600,
+        "timezone": "BST",
+        "exchangeTimezoneName": "Europe/London",
+        "regularMarketPrice": 404.83,
+        "fiftyTwoWeekHigh": 407.7,
+        "fiftyTwoWeekLow": 403.35,
+        "regularMarketDayHigh": 407.7,
+        "regularMarketDayLow": 403.35,
+        "regularMarketVolume": 13687832,
+        "longName": "BP p.l.c.",
+        "shortName": "BP PLC $0.25",
+        "chartPreviousClose": 450.8,
+        "priceHint": 2,
+        "currentTradingPeriod": {
+            "pre": {
+                "timezone": "BST",
+                "end": 1725951600,
+                "start": 1725948900,
+                "gmtoffset": 3600
+            },
+            "regular": {
+                "timezone": "BST",
+                "end": 1725982200,
+                "start": 1725951600,
+                "gmtoffset": 3600
+            },
+            "post": {
+                "timezone": "BST",
+                "end": 1725984900,
+                "start": 1725982200,
+                "gmtoffset": 3600
+            }
+        },
+        "dataGranularity": "1d",
+        "range": "",
+        "validRanges": [
+            "1d",
+            "5d",
+            "1mo",
+            "3mo",
+            "6mo",
+            "1y",
+            "2y",
+            "5y",
+            "10y",
+            "ytd",
+            "max"
+        ],
+        "ticker": "BP"
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "columns": [
+            "Value"
+        ],
+        "index": [
+            "insidersPercentHeld",
+            "institutionsPercentHeld",
+            "institutionsFloatPercentHeld",
+            "institutionsCount"
+        ],
+        "data": [
+            [
+                0.0025799999
+            ],
+            [
+                0.409
+            ],
+            [
+                0.41006002
+            ],
+            [
+                611.0
+            ]
+        ],
+        "ticker": "BP"
+    }
+]

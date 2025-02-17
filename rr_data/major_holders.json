@@ -1,0 +1,28 @@
+[
+    {
+        "index": [
+            "insidersPercentHeld",
+            "institutionsPercentHeld",
+            "institutionsFloatPercentHeld",
+            "institutionsCount"
+        ],
+        "columns": [
+            "Value"
+        ],
+        "data": [
+            [
+                0.00042
+            ],
+            [
+                0.63375
+            ],
+            [
+                0.63402003
+            ],
+            [
+                384.0
+            ]
+        ],
+        "ticker": "RR.L"
+    }
+]

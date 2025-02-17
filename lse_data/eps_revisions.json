@@ -1,0 +1,13 @@
+[
+    {
+        "columns": [
+            "upLast7days",
+            "upLast30days",
+            "downLast7days",
+            "downLast30days"
+        ],
+        "index": [],
+        "data": [],
+        "ticker": "BP"
+    }
+]

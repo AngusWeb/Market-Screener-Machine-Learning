@@ -1,0 +1,53 @@
+{
+    "columns":[
+        "Insider Purchases Last 6m",
+        "Shares",
+        "Trans"
+    ],
+    "index":[
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "data":[
+        [
+            "Purchases",
+            0,
+            0
+        ],
+        [
+            "Sales",
+            null,
+            0
+        ],
+        [
+            "Net Shares Purchased (Sold)",
+            0,
+            0
+        ],
+        [
+            "Total Insider Shares Held",
+            3519600,
+            null
+        ],
+        [
+            "% Net Shares Purchased (Sold)",
+            null,
+            null
+        ],
+        [
+            "% Buy Shares",
+            null,
+            null
+        ],
+        [
+            "% Sell Shares",
+            null,
+            null
+        ]
+    ]
+}

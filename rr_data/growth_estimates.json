@@ -1,0 +1,57 @@
+[
+    {
+        "index": [
+            "0q",
+            "+1q",
+            "0y",
+            "+1y",
+            "+5y",
+            "-5y"
+        ],
+        "columns": [
+            "stock",
+            "industry",
+            "sector",
+            "index"
+        ],
+        "data": [
+            [
+                NaN,
+                NaN,
+                NaN,
+                0.069
+            ],
+            [
+                NaN,
+                NaN,
+                NaN,
+                0.111
+            ],
+            [
+                0.122,
+                NaN,
+                NaN,
+                0.040999997
+            ],
+            [
+                0.22600001,
+                NaN,
+                NaN,
+                0.13
+            ],
+            [
+                0.139,
+                NaN,
+                NaN,
+                0.119403
+            ],
+            [
+                -0.25611,
+                NaN,
+                NaN,
+                NaN
+            ]
+        ],
+        "ticker": "RR.L"
+    }
+]

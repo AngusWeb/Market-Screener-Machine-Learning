@@ -1,0 +1,43 @@
+[
+    {
+        "index": [
+            "0q",
+            "+1q",
+            "0y",
+            "+1y"
+        ],
+        "columns": [
+            "upLast7days",
+            "upLast30days",
+            "downLast7days",
+            "downLast30days"
+        ],
+        "data": [
+            [
+                0,
+                0,
+                null,
+                0
+            ],
+            [
+                0,
+                0,
+                null,
+                0
+            ],
+            [
+                1,
+                3,
+                null,
+                0
+            ],
+            [
+                1,
+                3,
+                null,
+                0
+            ]
+        ],
+        "ticker": "RR.L"
+    }
+]

@@ -1,0 +1,96 @@
+[
+    {
+        "columns": [
+            "Date Reported",
+            "Holder",
+            "pctHeld",
+            "Shares",
+            "Value"
+        ],
+        "index": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+        ],
+        "data": [
+            [
+                "2023-07-31T00:00:00.000",
+                "Vanguard International Stock Index-Total Intl Stock Indx",
+                0.013200001,
+                230817907,
+                1114850490
+            ],
+            [
+                "2023-06-30T00:00:00.000",
+                "Vanguard Tax Managed Fund-Vanguard Developed Markets Index Fund",
+                0.0078,
+                136779926,
+                626930790
+            ],
+            [
+                "2023-06-30T00:00:00.000",
+                "New Perspective Fund Inc",
+                0.0054,
+                94182760,
+                431686680
+            ],
+            [
+                "2023-08-31T00:00:00.000",
+                "iShares Core MSCI EAFE ETF",
+                0.0054,
+                94452043,
+                460453709
+            ],
+            [
+                "2023-07-31T00:00:00.000",
+                "Capital Income Builder, Inc.",
+                0.0041,
+                70864879,
+                342277365
+            ],
+            [
+                "2023-07-31T00:00:00.000",
+                "Blackrock Equity Dividend Fund",
+                0.0038,
+                65677122,
+                317220499
+            ],
+            [
+                "2023-06-30T00:00:00.000",
+                "Capital World Growth and Income Fund",
+                0.0032,
+                55301775,
+                253475685
+            ],
+            [
+                "2023-09-30T00:00:00.000",
+                "iShares MSCI Eafe ETF",
+                0.0031,
+                54669578,
+                290514137
+            ],
+            [
+                "2023-05-31T00:00:00.000",
+                "Fidelity International Index Fund",
+                0.0027,
+                47517945,
+                215398844
+            ],
+            [
+                "2023-06-30T00:00:00.000",
+                "Six Circles International Unconstrained Equity Fd",
+                0.0025,
+                43246394,
+                198219846
+            ]
+        ],
+        "ticker": "BP"
+    }
+]

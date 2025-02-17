@@ -1,0 +1,58 @@
+{
+    "currency": "GBp",
+    "symbol": "RR.L",
+    "exchangeName": "LSE",
+    "fullExchangeName": "LSE",
+    "instrumentType": "EQUITY",
+    "firstTradeDate": 583743600,
+    "regularMarketTime": 1725466323,
+    "hasPrePostMarketData": false,
+    "gmtoffset": 3600,
+    "timezone": "BST",
+    "exchangeTimezoneName": "Europe/London",
+    "regularMarketPrice": 480.7,
+    "fiftyTwoWeekHigh": 484.1,
+    "fiftyTwoWeekLow": 460.4,
+    "regularMarketDayHigh": 484.1,
+    "regularMarketDayLow": 460.4,
+    "regularMarketVolume": 25431776,
+    "longName": "Rolls-Royce Holdings plc",
+    "shortName": "ROLLS-ROYCE HOLDINGS PLC ORD SH",
+    "chartPreviousClose": 78.28,
+    "priceHint": 2,
+    "currentTradingPeriod": {
+        "pre": {
+            "timezone": "BST",
+            "end": 1725606000,
+            "start": 1725603300,
+            "gmtoffset": 3600
+        },
+        "regular": {
+            "timezone": "BST",
+            "end": 1725636600,
+            "start": 1725606000,
+            "gmtoffset": 3600
+        },
+        "post": {
+            "timezone": "BST",
+            "end": 1725639300,
+            "start": 1725636600,
+            "gmtoffset": 3600
+        }
+    },
+    "dataGranularity": "1d",
+    "range": "",
+    "validRanges": [
+        "1d",
+        "5d",
+        "1mo",
+        "3mo",
+        "6mo",
+        "1y",
+        "2y",
+        "5y",
+        "10y",
+        "ytd",
+        "max"
+    ]
+}

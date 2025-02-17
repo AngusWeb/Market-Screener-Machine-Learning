@@ -1,0 +1,25 @@
+{
+    "columns":[
+        "Value"
+    ],
+    "index":[
+        "insidersPercentHeld",
+        "institutionsPercentHeld",
+        "institutionsFloatPercentHeld",
+        "institutionsCount"
+    ],
+    "data":[
+        [
+            0.00042
+        ],
+        [
+            0.63375
+        ],
+        [
+            0.63402003
+        ],
+        [
+            384.0
+        ]
+    ]
+}

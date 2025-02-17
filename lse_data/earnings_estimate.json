@@ -1,0 +1,15 @@
+[
+    {
+        "columns": [
+            "numberOfAnalysts",
+            "avg",
+            "low",
+            "high",
+            "yearAgoEps",
+            "growth"
+        ],
+        "index": [],
+        "data": [],
+        "ticker": "BP"
+    }
+]

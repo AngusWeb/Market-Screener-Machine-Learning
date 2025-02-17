@@ -1,0 +1,32 @@
+[
+    {
+        "index": [
+            "2025-07-30 07:00:00+01:00",
+            "2025-02-20 08:00:00+00:00",
+            "2024-08-01 07:00:00+01:00"
+        ],
+        "columns": [
+            "EPS Estimate",
+            "Reported EPS",
+            "Surprise(%)"
+        ],
+        "data": [
+            [
+                NaN,
+                NaN,
+                NaN
+            ],
+            [
+                NaN,
+                NaN,
+                NaN
+            ],
+            [
+                NaN,
+                NaN,
+                NaN
+            ]
+        ],
+        "ticker": "RR.L"
+    }
+]

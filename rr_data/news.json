@@ -1,0 +1,409 @@
+[
+    {
+        "data": [
+            {
+                "uuid": "b31c7259-35d4-3004-88ac-465998317879",
+                "title": "Social media platform X down for thousands of users, Downdetector shows",
+                "publisher": "Reuters",
+                "link": "https://finance.yahoo.com/news/social-media-platform-x-down-150057035.html",
+                "providerPublishTime": 1725721257,
+                "type": "STORY",
+                "thumbnail": {
+                    "resolutions": [
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/r8l1kb9orn9g9DfpCxdj4w--~B/aD01MzM7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters-finance.com/006bbadf7beaad9bad9f7d5f272bbc28",
+                            "width": 800,
+                            "height": 533,
+                            "tag": "original"
+                        },
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/TsCkVE2I.F5OaZAH7QGHgg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/reuters-finance.com/006bbadf7beaad9bad9f7d5f272bbc28",
+                            "width": 140,
+                            "height": 140,
+                            "tag": "140x140"
+                        }
+                    ]
+                }
+            },
+            {
+                "uuid": "08e202cd-2542-4d1b-87a3-4a6d1ce1717c",
+                "title": "Google's second antitrust trial starts Monday. Here's what's at stake.",
+                "publisher": "Yahoo Finance",
+                "link": "https://finance.yahoo.com/news/googles-second-antitrust-trial-starts-monday-heres-whats-at-stake-150050386.html",
+                "providerPublishTime": 1725721250,
+                "type": "STORY",
+                "thumbnail": {
+                    "resolutions": [
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/xnZz4W6ZxRKAVv.VKCYtQQ--~B/aD0zMDUzO3c9NDU3OTthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2024-09/0a162160-6a5d-11ef-ad9c-76eadf4263d8",
+                            "width": 4579,
+                            "height": 3053,
+                            "tag": "original"
+                        },
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/fT.NUgkhwFwC7loGR.PRxw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2024-09/0a162160-6a5d-11ef-ad9c-76eadf4263d8",
+                            "width": 140,
+                            "height": 140,
+                            "tag": "140x140"
+                        }
+                    ]
+                },
+                "relatedTickers": [
+                    "GOOG"
+                ]
+            },
+            {
+                "uuid": "20ffcf1c-b190-36f9-9e00-fb6606e5b52f",
+                "title": "IFA 2024: JMGO Launches N1S Ultimate 4K and N1S Pro 4K with MALC\u2122 2.0 Triple Laser Optics, Pushing Boundaries in Laser Projection",
+                "publisher": "GlobeNewswire",
+                "link": "https://finance.yahoo.com/news/ifa-2024-jmgo-launches-n1s-150000502.html",
+                "providerPublishTime": 1725721200,
+                "type": "STORY",
+                "thumbnail": {
+                    "resolutions": [
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/uTJRp6bfkW5A.K.f4QgUew--~B/aD01MzA0O3c9Nzk1MjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/globenewswire.com/e916da77c7bf7d9b1582f525f6a3e310",
+                            "width": 7952,
+                            "height": 5304,
+                            "tag": "original"
+                        },
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/kIVUIlBgZIP2QbYgsZnmvA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/globenewswire.com/e916da77c7bf7d9b1582f525f6a3e310",
+                            "width": 140,
+                            "height": 140,
+                            "tag": "140x140"
+                        }
+                    ]
+                }
+            },
+            {
+                "uuid": "80416f71-9582-3afd-bb3d-1e9371771333",
+                "title": "Up 12% in 2024, You May Want to Buy This Semiconductor Stock Before It Goes on a Bull Run",
+                "publisher": "Motley Fool",
+                "link": "https://finance.yahoo.com/m/80416f71-9582-3afd-bb3d-1e9371771333/up-12%25-in-2024%2C-you-may-want.html",
+                "providerPublishTime": 1725721200,
+                "type": "STORY",
+                "thumbnail": {
+                    "resolutions": [
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/.RGUqcoKVbidQSpYS_lMmw--~B/aD0zODA7dz03MjA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/49539c371bc303a09676657ef9f15402",
+                            "width": 720,
+                            "height": 380,
+                            "tag": "original"
+                        },
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/7E5w6UPC_xGGT7pHKa04zQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/49539c371bc303a09676657ef9f15402",
+                            "width": 140,
+                            "height": 140,
+                            "tag": "140x140"
+                        }
+                    ]
+                },
+                "relatedTickers": [
+                    "ADI",
+                    "NVDA"
+                ]
+            },
+            {
+                "uuid": "28f0d274-e779-33ec-8bd7-12f2e184c9bc",
+                "title": "FlexM Launches FlexComply to Transform KYC Compliance for Financial Institutions",
+                "publisher": "GlobeNewswire",
+                "link": "https://finance.yahoo.com/news/flexm-launches-flexcomply-transform-kyc-144900625.html",
+                "providerPublishTime": 1725720540,
+                "type": "STORY",
+                "thumbnail": {
+                    "resolutions": [
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/rnHl1ACpToJkQQdi6h.PTQ--~B/aD0xMDAwO3c9MTAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/globenewswire.com/ba23d404c65024016c646ceb513e8a7a",
+                            "width": 1000,
+                            "height": 1000,
+                            "tag": "original"
+                        },
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/vKqtgyTlq_m6WEQqM3iCPQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/globenewswire.com/ba23d404c65024016c646ceb513e8a7a",
+                            "width": 140,
+                            "height": 140,
+                            "tag": "140x140"
+                        }
+                    ]
+                }
+            },
+            {
+                "uuid": "2d0c6a49-7997-3a93-b9aa-43f61f3e1397",
+                "title": "Leehoos Unveils New Partnership and Research Highlighting the Essential Role of Emergency Radios for Outdoor Enthusiasts",
+                "publisher": "GlobeNewswire",
+                "link": "https://finance.yahoo.com/news/leehoos-unveils-partnership-research-highlighting-144800797.html",
+                "providerPublishTime": 1725720480,
+                "type": "STORY",
+                "thumbnail": {
+                    "resolutions": [
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/7mJg4IagHBylvqU5LqljJA--~B/aD0xMzU0O3c9MTQwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/globenewswire.com/728be835c3a3cec428ee5d487e3f5146",
+                            "width": 1400,
+                            "height": 1354,
+                            "tag": "original"
+                        },
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/2J0Pj5IbuQA4pEnDJw2o1w--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/globenewswire.com/728be835c3a3cec428ee5d487e3f5146",
+                            "width": 140,
+                            "height": 140,
+                            "tag": "140x140"
+                        }
+                    ]
+                }
+            },
+            {
+                "uuid": "2b2cc427-e69e-3709-8943-bc977eb55bf4",
+                "title": "Why an ominous warning didn't stop Georgia school shooting",
+                "publisher": "USA TODAY",
+                "link": "https://finance.yahoo.com/m/2b2cc427-e69e-3709-8943-bc977eb55bf4/why-an-ominous-warning-didn%27t.html",
+                "providerPublishTime": 1725720188,
+                "type": "STORY",
+                "thumbnail": {
+                    "resolutions": [
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/LH9TiUYhM8Z7ProV940GYw--~B/aD03Mzk7dz05OTY7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/usa_today_news_641/ba09cd1ec6f7537af893327337a13a40",
+                            "width": 996,
+                            "height": 739,
+                            "tag": "original"
+                        },
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/Vj4JwOr1_7gJ6LZV5S0eqg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/usa_today_news_641/ba09cd1ec6f7537af893327337a13a40",
+                            "width": 140,
+                            "height": 140,
+                            "tag": "140x140"
+                        }
+                    ]
+                }
+            },
+            {
+                "uuid": "0c101831-77fc-339e-8503-2609c9b286c5",
+                "title": "The total return for Comfort Systems USA (NYSE:FIX) investors has risen faster than earnings growth over the last five years",
+                "publisher": "Simply Wall St.",
+                "link": "https://finance.yahoo.com/news/total-return-comfort-systems-usa-144139859.html",
+                "providerPublishTime": 1725720099,
+                "type": "STORY",
+                "thumbnail": {
+                    "resolutions": [
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/kpZnHWmVXh9fa.5MJ5otJg--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/e18325c660d04f2fe88569956b7babe1",
+                            "width": 1194,
+                            "height": 432,
+                            "tag": "original"
+                        },
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/4j3rd4whPIAaLLFElrnNnQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/e18325c660d04f2fe88569956b7babe1",
+                            "width": 140,
+                            "height": 140,
+                            "tag": "140x140"
+                        }
+                    ]
+                },
+                "relatedTickers": [
+                    "FIX"
+                ]
+            }
+        ],
+        "ticker": "RR.L"
+    },
+    {
+        "data": [
+            {
+                "uuid": "500370c6-00ee-34c4-983a-982dfe019c30",
+                "title": "Is This The Most Expensive Tiny Home Ever? 713-Square-Foot Cabin Lists For $1.25M",
+                "publisher": "Benzinga",
+                "link": "https://finance.yahoo.com/news/most-expensive-tiny-home-ever-150517792.html",
+                "providerPublishTime": 1725721517,
+                "type": "STORY",
+                "thumbnail": {
+                    "resolutions": [
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/rMWy6MZVMbJwS1KmFy1VRA--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Benzinga/af3542cb242c87159a468a4ab9fe0b67",
+                            "width": 1000,
+                            "height": 563,
+                            "tag": "original"
+                        },
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/YhVFLvWXZRkVqsy33lmYdA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Benzinga/af3542cb242c87159a468a4ab9fe0b67",
+                            "width": 140,
+                            "height": 140,
+                            "tag": "140x140"
+                        }
+                    ]
+                }
+            },
+            {
+                "uuid": "49500c0e-10fc-3965-9801-addf8e46ebed",
+                "title": "6 Things To Know Before Retiring in These Midwestern States",
+                "publisher": "GOBankingRates",
+                "link": "https://finance.yahoo.com/news/6-things-know-retiring-midwestern-150104303.html",
+                "providerPublishTime": 1725721264,
+                "type": "STORY",
+                "thumbnail": {
+                    "resolutions": [
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/mKhLgUAPuywJFUmQxWPzDA--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/gobankingrates_644/984ed8273d4a8238232600b7991a90e0",
+                            "width": 1920,
+                            "height": 1080,
+                            "tag": "original"
+                        },
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/zbi8O.effWLksLnUkeoGfA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/gobankingrates_644/984ed8273d4a8238232600b7991a90e0",
+                            "width": 140,
+                            "height": 140,
+                            "tag": "140x140"
+                        }
+                    ]
+                }
+            },
+            {
+                "uuid": "745d62fa-18d9-3c80-b17a-18921b8c2721",
+                "title": "WOZ: Sean Miller Joins as VP of Partnerships",
+                "publisher": "GlobeNewswire",
+                "link": "https://finance.yahoo.com/news/woz-sean-miller-joins-vp-150100413.html",
+                "providerPublishTime": 1725721260,
+                "type": "STORY",
+                "thumbnail": {
+                    "resolutions": [
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/752TdI8W9McwwHz_lmDgOw--~B/aD0yMzg7dz0xMDI0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/globenewswire.com/6aa4ceecc595bd3045f7c9095d9f1322",
+                            "width": 1024,
+                            "height": 238,
+                            "tag": "original"
+                        },
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/qgAmvQ.I1kHqiGo..JrsCw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/globenewswire.com/6aa4ceecc595bd3045f7c9095d9f1322",
+                            "width": 140,
+                            "height": 140,
+                            "tag": "140x140"
+                        }
+                    ]
+                }
+            },
+            {
+                "uuid": "8f4766af-fd41-3ee0-90dc-321aee119197",
+                "title": "Social media platform X down for thousands of users, Downdetector shows",
+                "publisher": "Reuters",
+                "link": "https://finance.yahoo.com/news/social-media-platform-x-down-150057011.html",
+                "providerPublishTime": 1725721257,
+                "type": "STORY",
+                "thumbnail": {
+                    "resolutions": [
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/ZOCGERo9n_Gr2YG6fOuXgw--~B/aD01MzM7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/006bbadf7beaad9bad9f7d5f272bbc28",
+                            "width": 800,
+                            "height": 533,
+                            "tag": "original"
+                        },
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/0jdjqwDmepDb9WJOpD4xgQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/reuters.com/006bbadf7beaad9bad9f7d5f272bbc28",
+                            "width": 140,
+                            "height": 140,
+                            "tag": "140x140"
+                        }
+                    ]
+                }
+            },
+            {
+                "uuid": "2b3ff417-e661-3439-9234-3309c851033b",
+                "title": "Tesla, Apple and 3 More Brands That Give You the Most Years for Your Money",
+                "publisher": "GOBankingRates",
+                "link": "https://finance.yahoo.com/news/tesla-apple-3-more-brands-150053216.html",
+                "providerPublishTime": 1725721253,
+                "type": "STORY",
+                "thumbnail": {
+                    "resolutions": [
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/aGR3zsaNd2id4ZbJZsiCpQ--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/gobankingrates_644/bd6faa54bc5e8520ac880bfb77a125b7",
+                            "width": 1920,
+                            "height": 1080,
+                            "tag": "original"
+                        },
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/VYV7A.ASQj3jvSKFsjjadg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/gobankingrates_644/bd6faa54bc5e8520ac880bfb77a125b7",
+                            "width": 140,
+                            "height": 140,
+                            "tag": "140x140"
+                        }
+                    ]
+                }
+            },
+            {
+                "uuid": "08e202cd-2542-4d1b-87a3-4a6d1ce1717c",
+                "title": "Google's second antitrust trial starts Monday. Here's what's at stake.",
+                "publisher": "Yahoo Finance",
+                "link": "https://finance.yahoo.com/news/googles-second-antitrust-trial-starts-monday-heres-whats-at-stake-150050386.html",
+                "providerPublishTime": 1725721250,
+                "type": "STORY",
+                "thumbnail": {
+                    "resolutions": [
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/xnZz4W6ZxRKAVv.VKCYtQQ--~B/aD0zMDUzO3c9NDU3OTthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2024-09/0a162160-6a5d-11ef-ad9c-76eadf4263d8",
+                            "width": 4579,
+                            "height": 3053,
+                            "tag": "original"
+                        },
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/fT.NUgkhwFwC7loGR.PRxw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2024-09/0a162160-6a5d-11ef-ad9c-76eadf4263d8",
+                            "width": 140,
+                            "height": 140,
+                            "tag": "140x140"
+                        }
+                    ]
+                },
+                "relatedTickers": [
+                    "GOOG"
+                ]
+            },
+            {
+                "uuid": "92e96a2d-d854-3043-a142-c5663f9de50c",
+                "title": "Don\u2019t Buy a House in these 20 Cities With the Most Closures of Stores and Businesses",
+                "publisher": "GOBankingRates",
+                "link": "https://finance.yahoo.com/news/don-t-buy-house-20-150043474.html",
+                "providerPublishTime": 1725721243,
+                "type": "STORY",
+                "thumbnail": {
+                    "resolutions": [
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/2fJBkeB93BnLBWz5q0m8AA--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/gobankingrates_644/673cdf0414877b9320d9299cb327d797",
+                            "width": 1920,
+                            "height": 1080,
+                            "tag": "original"
+                        },
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/dQpWwvSN_Yi913JIvWs8Fg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/gobankingrates_644/673cdf0414877b9320d9299cb327d797",
+                            "width": 140,
+                            "height": 140,
+                            "tag": "140x140"
+                        }
+                    ]
+                }
+            },
+            {
+                "uuid": "45087402-b2d6-3000-aef5-c48aece19a0f",
+                "title": "12 Least Reliable Used Car Brands That Aren\u2019t Worth the Money",
+                "publisher": "GOBankingRates",
+                "link": "https://finance.yahoo.com/news/12-least-reliable-used-car-150032065.html",
+                "providerPublishTime": 1725721232,
+                "type": "STORY",
+                "thumbnail": {
+                    "resolutions": [
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/W.ZK1SXRTZ9bMkRGeZWP6Q--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/gobankingrates_644/a30e4a89712c3f18adfcf3271974bbc8",
+                            "width": 1920,
+                            "height": 1080,
+                            "tag": "original"
+                        },
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/mS0aWSYz65RaJlRaRE6niA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/gobankingrates_644/a30e4a89712c3f18adfcf3271974bbc8",
+                            "width": 140,
+                            "height": 140,
+                            "tag": "140x140"
+                        }
+                    ]
+                }
+            }
+        ],
+        "ticker": "RR.L"
+    }
+]

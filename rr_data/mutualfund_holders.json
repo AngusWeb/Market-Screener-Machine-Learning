@@ -1,0 +1,96 @@
+[
+    {
+        "index": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+        ],
+        "columns": [
+            "Date Reported",
+            "Holder",
+            "pctHeld",
+            "Shares",
+            "Value"
+        ],
+        "data": [
+            [
+                "2023-06-30 00:00:00",
+                "Causeway International Value Fund",
+                0.0201,
+                169011592,
+                255292009
+            ],
+            [
+                "2023-07-31 00:00:00",
+                "Vanguard International Stock Index-Total Intl Stock Indx",
+                0.013300001,
+                111968156,
+                206973136
+            ],
+            [
+                "2023-05-31 00:00:00",
+                "Templeton Growth Fund, Inc.",
+                0.0119,
+                100193177,
+                143576822
+            ],
+            [
+                "2023-05-31 00:00:00",
+                "MFS International Growth Fund",
+                0.0111,
+                93098040,
+                133409491
+            ],
+            [
+                "2023-07-31 00:00:00",
+                "Old Westbury Large Cap Strategies Fund",
+                0.0087,
+                73612200,
+                136072151
+            ],
+            [
+                "2023-06-30 00:00:00",
+                "Vanguard Tax Managed Fund-Vanguard Developed Markets Index Fund",
+                0.007900001,
+                66334732,
+                100198612
+            ],
+            [
+                "2023-06-30 00:00:00",
+                "Price (T.Rowe) Mid-Cap Value Fund",
+                0.0076,
+                64198961,
+                96972530
+            ],
+            [
+                "2023-06-30 00:00:00",
+                "Sequoia Fund Inc",
+                0.0076,
+                64185622,
+                96952382
+            ],
+            [
+                "2023-06-30 00:00:00",
+                "Price (T.Rowe) International Value Equity Trust",
+                0.0070999996,
+                59950282,
+                90554900
+            ],
+            [
+                "2023-07-31 00:00:00",
+                "Price (T.Rowe) International Value Equity Fund",
+                0.0069,
+                57712709,
+                106681942
+            ]
+        ],
+        "ticker": "RR.L"
+    }
+]

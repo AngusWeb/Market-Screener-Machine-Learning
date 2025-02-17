@@ -1,0 +1,179 @@
+[
+    {
+        "index": [
+            "maxAge",
+            "totalEsg",
+            "environmentScore",
+            "socialScore",
+            "governanceScore",
+            "ratingYear",
+            "ratingMonth",
+            "highestControversy",
+            "peerCount",
+            "esgPerformance",
+            "peerGroup",
+            "relatedControversy",
+            "peerEsgScorePerformance",
+            "peerGovernancePerformance",
+            "peerSocialPerformance",
+            "peerEnvironmentPerformance",
+            "peerHighestControversyPerformance",
+            "percentile",
+            "environmentPercentile",
+            "socialPercentile",
+            "governancePercentile",
+            "adult",
+            "alcoholic",
+            "animalTesting",
+            "catholic",
+            "controversialWeapons",
+            "smallArms",
+            "furLeather",
+            "gambling",
+            "gmo",
+            "militaryContract",
+            "nuclear",
+            "pesticides",
+            "palmOil",
+            "coal",
+            "tobacco"
+        ],
+        "columns": [
+            "esgScores"
+        ],
+        "data": [
+            [
+                86400
+            ],
+            [
+                24.83
+            ],
+            [
+                6.86
+            ],
+            [
+                12.98
+            ],
+            [
+                4.99
+            ],
+            [
+                2023
+            ],
+            [
+                9
+            ],
+            [
+                2.0
+            ],
+            [
+                23
+            ],
+            [
+                "AVG_PERF"
+            ],
+            [
+                "Aerospace & Defense"
+            ],
+            [
+                [
+                    "Customer Incidents",
+                    "Business Ethics Incidents"
+                ]
+            ],
+            [
+                {
+                    "min": 20.37,
+                    "avg": 29.226956521739137,
+                    "max": 39.6
+                }
+            ],
+            [
+                {
+                    "min": 4.99,
+                    "avg": 6.978695652173914,
+                    "max": 9.41
+                }
+            ],
+            [
+                {
+                    "min": 8.68,
+                    "avg": 14.027826086956521,
+                    "max": 22.48
+                }
+            ],
+            [
+                {
+                    "min": 5.76,
+                    "avg": 8.221304347826086,
+                    "max": 12.01
+                }
+            ],
+            [
+                {
+                    "min": 0.0,
+                    "avg": 2.347826086956522,
+                    "max": 4.0
+                }
+            ],
+            [
+                48.24
+            ],
+            [
+                null
+            ],
+            [
+                null
+            ],
+            [
+                null
+            ],
+            [
+                false
+            ],
+            [
+                false
+            ],
+            [
+                false
+            ],
+            [
+                false
+            ],
+            [
+                true
+            ],
+            [
+                false
+            ],
+            [
+                false
+            ],
+            [
+                false
+            ],
+            [
+                false
+            ],
+            [
+                true
+            ],
+            [
+                false
+            ],
+            [
+                false
+            ],
+            [
+                false
+            ],
+            [
+                false
+            ],
+            [
+                false
+            ]
+        ],
+        "ticker": "RR.L"
+    }
+]

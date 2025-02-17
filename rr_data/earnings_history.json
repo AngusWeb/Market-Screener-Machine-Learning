@@ -1,0 +1,43 @@
+[
+    {
+        "index": [
+            "NaT",
+            "NaT",
+            "NaT",
+            "NaT"
+        ],
+        "columns": [
+            "epsEstimate",
+            "epsActual",
+            "epsDifference",
+            "surprisePercent"
+        ],
+        "data": [
+            [
+                null,
+                null,
+                null,
+                null
+            ],
+            [
+                null,
+                null,
+                null,
+                null
+            ],
+            [
+                null,
+                null,
+                null,
+                null
+            ],
+            [
+                null,
+                null,
+                null,
+                null
+            ]
+        ],
+        "ticker": "RR.L"
+    }
+]

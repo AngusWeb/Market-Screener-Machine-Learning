@@ -1,0 +1,21 @@
+[
+    {
+        "data": [
+            {
+                "date": "2022-07-08",
+                "epochDate": 1657238400,
+                "type": "F-6EF",
+                "title": "Offering Registrations",
+                "edgarUrl": "https://finance.yahoo.com/sec-filing/RR.L/0001193805-22-001077_1649568",
+                "exhibits": {
+                    "F-6EF": "https://cdn.yahoofinance.com/prod/sec-filings/0001649568/000119380522001077/e621825_f6ef-rollsroyce.htm",
+                    "EX-99.(A)(2)": "https://cdn.yahoofinance.com/prod/sec-filings/0001649568/000119380522001077/e621825_ex99-a2.htm",
+                    "EX-99.(D)": "https://cdn.yahoofinance.com/prod/sec-filings/0001649568/000119380522001077/e621825_ex99-d.htm",
+                    "EX-99.(E)": "https://cdn.yahoofinance.com/prod/sec-filings/0001649568/000119380522001077/e621825_ex99-e.htm"
+                },
+                "maxAge": 1
+            }
+        ],
+        "ticker": "RR.L"
+    }
+]
